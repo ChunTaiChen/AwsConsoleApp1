@@ -1,0 +1,8 @@
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AwsConsoleApp1.exe.config
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AwsConsoleApp1.exe
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AwsConsoleApp1.pdb
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AWSSDK.dll
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AWSSDK.xml
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\obj\Debug\AwsConsoleApp1.exe
+D:\ProjTest\AwsConsoleApp1\AwsConsoleApp1\obj\Debug\AwsConsoleApp1.pdb
